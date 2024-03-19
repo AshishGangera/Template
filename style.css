@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    line-height: 160%;
+    letter-spacing: 25px;
+    padding-top: 8px;
+    background-color: aqua;
+    height: 100px;
+    width: 100;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+
+
+div h3 {
+    margin-left: 50px;
+    margin-top: 30px;
+    display: inline-block;
+    background-color: rgb(255, 0, 247);
+    color: rgb(255, 0, 247);
+    rgb(255, 0, 238)rgb(255, 0, 238)
+}
+div h4 {
+    margin-left: 20px;
+    margin-top: 30px;
+    padding-top: 3px;
+    padding-right: 10px;
+    padding-left: 10px;
+    display: inline-block;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+div th {
+    background-color: rgb(0, 255, 98);
+    height: 100px;
+    text-align: top;
+}
+
+.ab {
+    position: absolute;
+    left: 0px;
+    top: 50%;
+    background-color: aqua;
+    height: 120px;
+    width: 100%;
+    color: white;
+    opacity: 0.9;
+    font-size: 21px;
+}
+
+.ab div {
+    color: white;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+.center-line {
+    position: absolute;
+    right: 20%;
+    background-color: rgb(255, 4, 205);
+    height: 85.7%;
+    width: 200px;
+    opacity: 0.9;
+}
+.center-line div {
+    padding-top: 45px;
+    padding-left: 35px;
+    color: white;
+    font-size: 25px;
+}
+.center-line logo{
+    padding-right: 20px;
+    font-size: 15px;
+}
+
+.center-line img{
+    width: 70px;
+    padding-top: 100px;
+    padding-left: 20px;
+}
+
+.cd {
+    position: absolute;
+    right: 0px;
+    background-color: aqua;
+    margin-top: 610px;
+    height: 120px;
+    width: 50%;
+    color: white;
+    opacity: 0.9;
+}
+
+.cd p {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 30px;
+    color: white;
+}
+
+.ef {
+    position: absolute;
+    left: 0px;
+    background-color: rgb(0, 0, 0);
+    margin-top: 610px;
+    height: 120px;
+    width: 50%;
+    color: white;
+    opacity: 0.7;
+    padding-left: 30px;
+    font-size: 25px;
+}
+
+.j {
+    letter-spacing: 3px;
+    text-align: justify;
+    line-height: 19px;
+    padding: 10px;
+    width: 60%;
+    font-size: 20px;
+}
+
+.gh {
+    position: absolute;
+    left: 0px;
+    background-color: rgb(0, 0, 0);
+    margin-top: 24.8%;
+    height: 234px;
+    width: 66.8%;
+    color: white;
+    opacity: 0.7;
+    padding-left: 25px;
+    padding-top: 10px;
+    font-size: 25px;
+
+}
+
+.i {
+    letter-spacing: 5px;
+    text-align: justify;
+    line-height: 19px;
+    padding: 10px;
+    width: 85%;
+    font-size: 20px;
+}
+
+header {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('5.jpg.jpg');
+    background-position: bottom;
+    background-size: cover;
+    display: flex;
+}
